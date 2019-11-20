@@ -1,0 +1,59 @@
+h1{
+Color: #FE9440;
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+p{  width: 900px;
+    margin-left: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-indent: 20px;
+}
+h2{
+    Color: #FE9440;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+table{
+    
+    border-style: solid;
+    border-width: 0.5px;
+    width: 300px;
+   
+
+    
+
+}
+tr{ margin-top: 1px;
+    border: solid;
+    border-width: 0.5px;
+    width: 200px;
+}
+td{
+    margin-top: 1px;
+    border: none;
+    border-width: 0.5px;
+   
+  
+}
+p.gia{
+    Color: rgb(255, 24, 24);
+    margin-left: 0px;
+}
+h4{
+    Color: #FE9440;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+
+
+
+}
+h5{
+    Color: #FE9440;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
